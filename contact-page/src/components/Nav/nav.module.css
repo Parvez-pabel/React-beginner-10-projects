@@ -1,0 +1,26 @@
+
+.navigation{
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+    margin: 0px 40px 0px 40px;
+    height: 74px;
+    
+}
+
+.navigation ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+    
+    
+}
+.navigation ul a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: 400;
+}
